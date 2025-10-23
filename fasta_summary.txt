@@ -1,0 +1,1 @@
+ID	Length	gc_content(%)	at_content(%)	reverse_complement(first10bp)
