@@ -21,4 +21,4 @@ The file is saved as a file named **fasta_summary.txt**.
 3. 'fasta_summary.txt' - the output summary
 
 
-##  have used Python and Biopython to create this project, NCBI to download the fasta file and git bash to upload the project to github ##.
+I have used Python and Biopython to create this project, NCBI to download the fasta file and git bash to upload the project to github.
